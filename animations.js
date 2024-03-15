@@ -9,6 +9,7 @@ var variations = [
   { title: "Centuri", favicon: "Favicons/centuri.png" },
   { title: "Schoology", favicon: "Favicons/schoology.png" },
   { title: "Google", favicon: "Favicons/google.png" }
+  { title: "Google", favicon: "Favicons/StudentVUE.png" }
 
 ];
 
